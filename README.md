@@ -15,7 +15,25 @@ YOURLS (Your Own URL Shortener) adalah aplikasi yang memungkinkan pengguna untuk
 - HTTPS Support
 ## Langkah Instalasi
 
-### 1.
+### 1. Download File diGithub YOURLS
+![images](./images/1.png)
+### 2. Set Up Hosting
+![images](./images/2.png)
+### 3. Cpanel
+![images](./images/3.png)
+### 4. Ekstraksi File
+![images](./images/5.png)
+### 5. Set Up Database
+![images](./images/6.png)
+### 6. Konfigurasi
+![images](./images/7.1.png)
+![images](./images/7.2.png)
+### 7. Login
+![images](./images/8.png)
+### 8. Interface
+![images](./images/9.png)
+### 9. Create or Edit Shortened Link
+![images](./images/10.png)
 # Cara Pemakaian
 # Pembahasan
 Yourls digunakan sebagai alat yang dapat membantu user untuk memperpendek URL pribadi user memiliki kelebihan maupun kekurangan sebagai berikut:
