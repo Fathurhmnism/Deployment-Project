@@ -17,17 +17,17 @@ YOURLS (Your Own URL Shortener) adalah aplikasi yang memungkinkan pengguna untuk
 
 ### 1. Download File diGithub YOURLS
 ![images](./images/1.png)
-### 2. Set Up Hosting
+### 2. Setup Web Hosting/VPS
 ![images](./images/2.png)
-### 3. Cpanel
+### 3. Pergi ke bagian Cpanel untuk mengatur website
 ![images](./images/3.png)
-### 4. Ekstraksi File
+### 4. Pergi ke bagian file manager, dan pilih directory public_html. Kemudian upload dan extract source code yang telah di download sebelumnya
 ![images](./images/5.png)
-### 5. Set Up Database
+### 5. Set up database baru dan user baru, kemudian sambungkan keduanya
 ![images](./images/6.png)
-### 6. Konfigurasi file config.php
+### 6. Konfigurasi file config.php untuk menyesuaikan nama database, user database, password database, dan url dari website, dan juga setup username dan password untuk login ke dalam website. Kemudian upload file tersebut ke direktori user dari folder public_html
 ![images](./images/7.1.png)
-### 7. Konfigurasi file .htacces
+### 7. Buat dan konfigurasi file .htaccess kemudian upload file tersebut ke root pada folder public_htm
 ![images](./images/7.2.png)
 # Cara Pemakaian
 Penggunaan web Yourls sangat sederhana, hanya perlu mengikuti langkah-langkah berikut:
