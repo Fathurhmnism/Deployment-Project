@@ -3,7 +3,7 @@ Deployment project yang dilakukan sebagai projek sesi UTS pada mata kuliah Komda
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 # Aplikasi Web Yourls
-![image](./images/logo(1).png)
+![Logo](./images/logo(1).png)
 # Sekilas Tentang
 YOURLS (Your Own URL Shortener) adalah aplikasi yang memungkinkan pengguna untuk melakukan pemendekan URL mereka sendiri di server pribadi. Dengan YOURLS, pengguna memiliki kendali penuh atas tautan yang ia buat, termasuk kemampuan untuk menyesuaikan nama tautan pendek, melacak statistik secara detail, serta mendukung pengembangan dengan berbagai plugin. Sebagai perangkat lunak yang bersifat gratis dan open-source, YOURLS memberikan fleksibilitas bagi pengguna dalam mengelola URL dengan cara yang aman dan terukur. Aplikasi ini cocok digunakan oleh individu maupun organisasi yang menginginkan solusi pemendek URL yang mandiri tanpa ketergantungan pada layanan pihak ketiga.
 # Instalasi
@@ -27,4 +27,4 @@ Yourls digunakan sebagai alat yang dapat membantu user untuk memperpendek URL pr
 2. b
 3. c
 # Referensi
-1. [LinkYourls]([https://www.linkace.org/](https://yourls.org/docs)) - Website Yourls
+1. [LinkYourls](https://yourls.org/docs) - Website Yourls
