@@ -25,15 +25,10 @@ YOURLS (Your Own URL Shortener) adalah aplikasi yang memungkinkan pengguna untuk
 ![images](./images/5.png)
 ### 5. Set Up Database
 ![images](./images/6.png)
-### 6. Konfigurasi
+### 6. Konfigurasi file config.php
 ![images](./images/7.1.png)
+### 7. Konfigurasi file .htacces
 ![images](./images/7.2.png)
-### 7. Login
-![images](./images/8.png)
-### 8. Interface
-![images](./images/9.png)
-### 9. Create or Edit Shortened Link
-![images](./images/10.png)
 # Cara Pemakaian
 Penggunaan web Yourls sangat sederhana, hanya perlu mengikuti langkah-langkah berikut:
 ### 1. Login kedalam web Yourls terlebih dahulu
