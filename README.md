@@ -2,6 +2,7 @@
 Deployment project yang dilakukan sebagai projek sesi UTS pada mata kuliah Komdat.
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|
 # Aplikasi Web Yourls
 ![Logo](./images/logo(1).png)
 # Sekilas Tentang
@@ -13,6 +14,8 @@ YOURLS (Your Own URL Shortener) adalah aplikasi yang memungkinkan pengguna untuk
 - MySQL 5.0+
 - HTTPS Support
 ## Langkah Instalasi
+
+### 1.
 # Cara Pemakaian
 # Pembahasan
 Yourls digunakan sebagai alat yang dapat membantu user untuk memperpendek URL pribadi user memiliki kelebihan maupun kekurangan sebagai berikut:
