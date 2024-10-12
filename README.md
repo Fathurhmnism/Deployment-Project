@@ -10,9 +10,6 @@ LinkAce adalah aplikasi Bookmark yang dirancang untuk membantu pengguna mengumpu
 - Web Server
 - MySQL 5.6+
 ## Langkah Instalasi
-# Konfigurasi
-# Maintenance
-# Optimalisasi
 # Cara Pemakaian
 # Pembahasan
 LinkAce digunakan sebagai alat yang dapat membantu user untuk mengumpulkan dan mengelola link memiliki kelebihan maupun kekurangan sebagai berikut:
