@@ -36,13 +36,13 @@ YOURLS (Your Own URL Shortener) adalah aplikasi yang memungkinkan pengguna untuk
 ![images](./images/10.png)
 # Cara Pemakaian
 Penggunaan web Yourls sangat sederhana, hanya perlu mengikuti langkah-langkah berikut:
-## 1. Login kedalam web Yourls terlebih dahulu
+### 1. Login kedalam web Yourls terlebih dahulu
 ![images](./images/11.png)
-## 2. Setelah itu kita akan masuk ke halaman home dari web Yourls, lalu disana terdapat kolom untuk memsukkan URL yang ingin diperpendek
+### 2. Setelah itu kita akan masuk ke halaman home dari web Yourls, lalu disana terdapat kolom untuk memsukkan URL yang ingin diperpendek
 ![images](./images/12.png)
-## 3. Lalu Masukkan link yang akan diperpendek dan klik tombol "shorten the URL"
+### 3. Lalu Masukkan link yang akan diperpendek dan klik tombol "shorten the URL"
 ![images](./images/13.png)
-## 4. Tunggu hingga link telah berhasil digenerate dan user dapat menggunakan link tersebut.
+### 4. Tunggu hingga link telah berhasil digenerate dan user dapat menggunakan link tersebut.
 ![images](./images/14.png)
 # Pembahasan
 Yourls digunakan sebagai alat yang dapat membantu user untuk memperpendek URL pribadi user memiliki kelebihan maupun kekurangan sebagai berikut:
